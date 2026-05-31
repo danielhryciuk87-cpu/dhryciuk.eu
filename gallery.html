@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Galerie | Daniel Hryciuk</title>
+  <meta name="description" content="Galerie fotograficzne Daniela Hryciuka z szybkim ładowaniem miniatur, lightboxem i pokazem slajdów.">
+  <link rel="canonical" href="https://dhryciuk.eu/gallery.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Galerie | Daniel Hryciuk">
+  <meta property="og:description" content="Przyroda, Figa, Motoryzacja i Podróże w fotograficznym portfolio.">
+  <meta property="og:image" content="https://dhryciuk.eu/images/og-cover.jpg">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/auth.js" defer></script>
+  <script src="js/main.js" defer></script>
+  <script src="js/gallery.js" defer></script>
+</head>
+<body data-protected="true">
+  <a class="skip-link" href="#main">Przejdź do treści</a>
+  <header class="site-header" data-header>
+    <a class="brand" href="index.html" aria-label="Daniel Hryciuk - strona główna">DH</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span></span><span class="sr-only">Menu</span></button>
+    <nav class="site-nav" id="site-nav" aria-label="Główna nawigacja">
+      <a href="gallery.html" aria-current="page">Galerie</a>
+      <a href="about.html">O mnie</a>
+      <a href="contact.html">Kontakt</a>
+      <button class="link-button" type="button" data-logout>Wyloguj</button>
+    </nav>
+  </header>
+
+  <main id="main" class="page">
+    <section class="page-hero">
+      <p class="eyebrow">Galerie</p>
+      <h1>Portfolio zbudowane na szybkim ładowaniu zdjęć</h1>
+      <p>Wybrane albumy Daniela Hryciuka, uporządkowane w czterech kierunkach fotograficznych.</p>
+    </section>
+
+    <section class="gallery-app" data-gallery-app>
+      <div class="gallery-toolbar" aria-label="Filtrowanie galerii">
+        <button class="chip is-active" type="button" data-filter="all">Wszystkie</button>
+        <button class="chip" type="button" data-filter="przyroda" id="przyroda">Przyroda</button>
+        <button class="chip" type="button" data-filter="figa" id="figa">Figa</button>
+        <button class="chip" type="button" data-filter="motoryzacja" id="motoryzacja">Motoryzacja</button>
+        <button class="chip" type="button" data-filter="podroze" id="podroze">Podróże</button>
+      </div>
+      <div class="album-list" data-albums aria-live="polite"></div>
+      <div class="masonry-grid" data-grid aria-live="polite"></div>
+      <button class="button button-ghost load-more" type="button" data-load-more hidden>Załaduj więcej</button>
+      <p class="muted empty-state" data-empty hidden>Brak zdjęć w tej kategorii. Dodaj folder źródłowy i uruchom generator.</p>
+    </section>
+  </main>
+
+  <div class="lightbox" data-lightbox hidden role="dialog" aria-modal="true" aria-label="Podgląd zdjęcia">
+    <button class="icon-button lightbox-close" type="button" data-lightbox-close aria-label="Zamknij">×</button>
+    <button class="icon-button lightbox-prev" type="button" data-lightbox-prev aria-label="Poprzednie zdjęcie">‹</button>
+    <figure>
+      <img data-lightbox-image alt="">
+      <figcaption data-lightbox-caption></figcaption>
+    </figure>
+    <button class="icon-button lightbox-next" type="button" data-lightbox-next aria-label="Następne zdjęcie">›</button>
+    <button class="button button-ghost lightbox-play" type="button" data-lightbox-play>Pokaz slajdów</button>
+  </div>
+
+  <footer class="site-footer">
+    <p>© <span data-year></span> Daniel Hryciuk</p>
+    <p><a href="https://dhryciuk.eu/">dhryciuk.eu</a></p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kontakt | Daniel Hryciuk</title>
+  <meta name="description" content="Kontakt z Danielem Hryciukiem w sprawie sesji, reportażu i dostępu do galerii.">
+  <link rel="canonical" href="https://dhryciuk.eu/contact.html">
+  <meta property="og:title" content="Kontakt | Daniel Hryciuk">
+  <meta property="og:image" content="https://dhryciuk.eu/images/og-cover.jpg">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/auth.js" defer></script>
+  <script src="js/main.js" defer></script>
+</head>
+<body data-protected="true">
+  <a class="skip-link" href="#main">Przejdź do treści</a>
+  <header class="site-header" data-header>
+    <a class="brand" href="index.html" aria-label="Daniel Hryciuk - strona główna">DH</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav"><span></span><span></span><span class="sr-only">Menu</span></button>
+    <nav class="site-nav" id="site-nav" aria-label="Główna nawigacja">
+      <a href="gallery.html">Galerie</a>
+      <a href="about.html">O mnie</a>
+      <a href="contact.html" aria-current="page">Kontakt</a>
+      <button class="link-button" type="button" data-logout>Wyloguj</button>
+    </nav>
+  </header>
+  <main id="main" class="page">
+    <section class="contact-layout">
+      <div>
+        <p class="eyebrow">Kontakt</p>
+        <h1>Porozmawiajmy o zdjęciach, trasie albo reportażu.</h1>
+        <p>Napisz w sprawie sesji, reportażu, dostępu do galerii albo wspólnego wyjazdu zdjęciowego.</p>
+      </div>
+      <form class="contact-form" action="https://formsubmit.co/daniel@dhryciuk.eu" method="POST">
+        <input type="hidden" name="_subject" value="Nowa wiadomość z dhryciuk.eu">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_captcha" value="false">
+        <label for="name">Imię i nazwisko</label>
+        <input id="name" name="name" type="text" autocomplete="name" required>
+        <label for="email">E-mail</label>
+        <input id="email" name="email" type="email" autocomplete="email" required>
+        <label for="message">Wiadomość</label>
+        <textarea id="message" name="message" rows="6" required></textarea>
+        <button class="button button-primary" type="submit">Wyślij wiadomość</button>
+      </form>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <p>© <span data-year></span> Daniel Hryciuk</p>
+    <p><a href="https://dhryciuk.eu/">dhryciuk.eu</a></p>
+  </footer>
+</body>
+</html>

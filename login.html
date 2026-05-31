@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Logowanie | Daniel Hryciuk</title>
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/auth.js" defer></script>
+</head>
+<body class="login-page">
+  <main class="login-shell" aria-labelledby="login-title">
+    <section class="login-panel">
+      <p class="eyebrow">Prywatne portfolio</p>
+      <h1 id="login-title">Daniel Hryciuk</h1>
+      <form class="login-form" data-login-form>
+        <label for="password">Hasło dostępu</label>
+        <input id="password" name="password" type="password" autocomplete="current-password" required autofocus>
+        <p class="form-error" data-login-error role="alert"></p>
+        <button class="button button-primary" type="submit">Wejdź na stronę</button>
+      </form>
+      <p class="muted">Lekkie zabezpieczenie przed przypadkowymi odwiedzinami.</p>
+    </section>
+  </main>
+</body>
+</html>
