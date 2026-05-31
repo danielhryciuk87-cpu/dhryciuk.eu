@@ -1,7 +1,133 @@
 {
-    "generatedAt":  "2026-05-31T11:29:44Z",
-    "sourceFilter":  null,
-    "albums":  [
-
-               ]
+  "generatedAt": "2026-05-31T20:07:02Z",
+  "sourceFilter": null,
+  "albums": [
+    {
+      "id": "figa-1",
+      "title": "Figa",
+      "category": "figa",
+      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Figa",
+      "photos": [
+        {
+          "src": "galleries/figa/figa-1/photos/00001-dsc-6117.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00001-dsc-6117.webp",
+          "alt": "Figa - zdjęcie 1",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00002-dsc-6121.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00002-dsc-6121.webp",
+          "alt": "Figa - zdjęcie 2",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00003-dsc-6123.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00003-dsc-6123.webp",
+          "alt": "Figa - zdjęcie 3",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00004-dsc-6124.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00004-dsc-6124.webp",
+          "alt": "Figa - zdjęcie 4",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00005-dsc-6125.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00005-dsc-6125.webp",
+          "alt": "Figa - zdjęcie 5",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00006-dsc-6130.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00006-dsc-6130.webp",
+          "alt": "Figa - zdjęcie 6",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00007-dsc-6145.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00007-dsc-6145.webp",
+          "alt": "Figa - zdjęcie 7",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00008-dsc-6174.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00008-dsc-6174.webp",
+          "alt": "Figa - zdjęcie 8",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00009-dsc-6186.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00009-dsc-6186.webp",
+          "alt": "Figa - zdjęcie 9",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00010-dsc-6187.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00010-dsc-6187.webp",
+          "alt": "Figa - zdjęcie 10",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00011-dsc-6247.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00011-dsc-6247.webp",
+          "alt": "Figa - zdjęcie 11",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00012-dsc-6265.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00012-dsc-6265.webp",
+          "alt": "Figa - zdjęcie 12",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00013-dsc-6290.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00013-dsc-6290.webp",
+          "alt": "Figa - zdjęcie 13",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00014-dsc-6339.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00014-dsc-6339.webp",
+          "alt": "Figa - zdjęcie 14",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00015-dsc-6397-2.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00015-dsc-6397-2.webp",
+          "alt": "Figa - zdjęcie 15",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00016-dsc-6410.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00016-dsc-6410.webp",
+          "alt": "Figa - zdjęcie 16",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00017-dsc-6419.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00017-dsc-6419.webp",
+          "alt": "Figa - zdjęcie 17",
+          "width": 0,
+          "height": 0
+        }
+      ]
+    }
+  ]
 }
