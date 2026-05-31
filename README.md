@@ -99,13 +99,13 @@ A     @     185.199.108.153
 A     @     185.199.109.153
 A     @     185.199.110.153
 A     @     185.199.111.153
-CNAME www   twoj-login.github.io.
+CNAME www   danielhryciuk87-cpu.github.io.
 ```
 
 Jeśli ViperHost wymaga pełnej nazwy hosta, użyj:
 
 ```text
-CNAME www.dhryciuk.eu   twoj-login.github.io.
+CNAME www.dhryciuk.eu   danielhryciuk87-cpu.github.io.
 ```
 
 Po zmianie DNS propagacja może potrwać od kilku minut do 24 godzin. SSL w GitHub Pages pojawi się dopiero po poprawnym wskazaniu domeny.
