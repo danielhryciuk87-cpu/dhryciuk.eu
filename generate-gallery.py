@@ -24,9 +24,9 @@ from PIL import Image, ImageOps
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp", ".tif", ".tiff"}
 CATEGORIES = {
     "przyroda": ["przyroda", "natura", "las", "krajobraz"],
-    "figa": ["figa"],
+    "figa": ["figa"],"zoja": ["zoja"],
     "motoryzacja": ["moto", "motocykl", "motoryzacja", "samochod", "auto"],
-    "podroze": ["podroze", "podróże", "wyjazd", "trasa"],
+    "podroze": ["podroze", "podróże", "wyjazd", "trasa"],"budowa": ["budowa", "budynek", "dom", "chata"],
 }
 
 
