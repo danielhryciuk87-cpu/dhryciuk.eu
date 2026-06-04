@@ -1,7 +1,211 @@
 {
-  "generatedAt": "2026-05-31T22:39:47Z",
+  "generatedAt": "2026-06-04T19:30:52.056686+00:00",
   "sourceFilter": null,
   "albums": [
+    {
+      "id": "figa-1",
+      "title": "Figa",
+      "category": "figa",
+      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Figa",
+      "photos": [
+        {
+          "src": "galleries/figa/figa-1/photos/00001-20161005-085638.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00001-20161005-085638.webp",
+          "alt": "Figa - zdjęcie 1",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00002-20161005-090039.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00002-20161005-090039.webp",
+          "alt": "Figa - zdjęcie 2",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00003-20161013-124306.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00003-20161013-124306.webp",
+          "alt": "Figa - zdjęcie 3",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00004-20161013-135513.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00004-20161013-135513.webp",
+          "alt": "Figa - zdjęcie 4",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00005-20161013-135520-1.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00005-20161013-135520-1.webp",
+          "alt": "Figa - zdjęcie 5",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00006-20161014-132414.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00006-20161014-132414.webp",
+          "alt": "Figa - zdjęcie 6",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00007-20161014-132427.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00007-20161014-132427.webp",
+          "alt": "Figa - zdjęcie 7",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00008-20161115-152710.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00008-20161115-152710.webp",
+          "alt": "Figa - zdjęcie 8",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00009-20161125-081735.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00009-20161125-081735.webp",
+          "alt": "Figa - zdjęcie 9",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00010-20161125-104131.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00010-20161125-104131.webp",
+          "alt": "Figa - zdjęcie 10",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00011-dsc-3059.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00011-dsc-3059.webp",
+          "alt": "Figa - zdjęcie 11",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00012-dsc-3060.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00012-dsc-3060.webp",
+          "alt": "Figa - zdjęcie 12",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00013-dsc-3061.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00013-dsc-3061.webp",
+          "alt": "Figa - zdjęcie 13",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00014-dsc-3063.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00014-dsc-3063.webp",
+          "alt": "Figa - zdjęcie 14",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00015-dsc-3090.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00015-dsc-3090.webp",
+          "alt": "Figa - zdjęcie 15",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00016-dsc-3141.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00016-dsc-3141.webp",
+          "alt": "Figa - zdjęcie 16",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00017-dsc-3142.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00017-dsc-3142.webp",
+          "alt": "Figa - zdjęcie 17",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00018-dsc-3144.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00018-dsc-3144.webp",
+          "alt": "Figa - zdjęcie 18",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00019-dsc-3147.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00019-dsc-3147.webp",
+          "alt": "Figa - zdjęcie 19",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00020-dsc-3148.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00020-dsc-3148.webp",
+          "alt": "Figa - zdjęcie 20",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00021-dsc-3149.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00021-dsc-3149.webp",
+          "alt": "Figa - zdjęcie 21",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00022-dsc-6130.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00022-dsc-6130.webp",
+          "alt": "Figa - zdjęcie 22",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00023-dsc-6145.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00023-dsc-6145.webp",
+          "alt": "Figa - zdjęcie 23",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00024-dsc-6174.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00024-dsc-6174.webp",
+          "alt": "Figa - zdjęcie 24",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00025-dsc-6186.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00025-dsc-6186.webp",
+          "alt": "Figa - zdjęcie 25",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00026-dsc-6187.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00026-dsc-6187.webp",
+          "alt": "Figa - zdjęcie 26",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00027-dsc-6290.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00027-dsc-6290.webp",
+          "alt": "Figa - zdjęcie 27",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/figa/figa-1/photos/00028-dsc-6397-2.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00028-dsc-6397-2.webp",
+          "alt": "Figa - zdjęcie 28",
+          "width": 0,
+          "height": 0
+        }
+      ]
+    },
     {
       "id": "budowa-1",
       "title": "Budowa",
@@ -100,213 +304,86 @@
           "height": 0
         },
         {
-          "src": "galleries/budowa/budowa-1/photos/00014-obraz-168.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00014-obraz-168.webp",
+          "src": "galleries/budowa/budowa-1/photos/00014-obraz-001.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00014-obraz-001.webp",
           "alt": "Budowa - zdjęcie 14",
           "width": 0,
           "height": 0
-        }
-      ]
-    },
-    {
-      "id": "figa-2",
-      "title": "Figa",
-      "category": "figa",
-      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Figa",
-      "photos": [
+        },
         {
-          "src": "galleries/figa/figa-2/photos/00001-20161005-085638.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00001-20161005-085638.webp",
-          "alt": "Figa - zdjęcie 1",
+          "src": "galleries/budowa/budowa-1/photos/00015-obraz-002.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00015-obraz-002.webp",
+          "alt": "Budowa - zdjęcie 15",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00002-20161005-090039.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00002-20161005-090039.webp",
-          "alt": "Figa - zdjęcie 2",
+          "src": "galleries/budowa/budowa-1/photos/00016-obraz-003.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00016-obraz-003.webp",
+          "alt": "Budowa - zdjęcie 16",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00003-20161013-124306.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00003-20161013-124306.webp",
-          "alt": "Figa - zdjęcie 3",
+          "src": "galleries/budowa/budowa-1/photos/00017-obraz-004.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00017-obraz-004.webp",
+          "alt": "Budowa - zdjęcie 17",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00004-20161013-135513.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00004-20161013-135513.webp",
-          "alt": "Figa - zdjęcie 4",
+          "src": "galleries/budowa/budowa-1/photos/00018-obraz-005.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00018-obraz-005.webp",
+          "alt": "Budowa - zdjęcie 18",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00005-20161013-135520-1.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00005-20161013-135520-1.webp",
-          "alt": "Figa - zdjęcie 5",
+          "src": "galleries/budowa/budowa-1/photos/00019-obraz-006.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00019-obraz-006.webp",
+          "alt": "Budowa - zdjęcie 19",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00006-20161014-132414.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00006-20161014-132414.webp",
-          "alt": "Figa - zdjęcie 6",
+          "src": "galleries/budowa/budowa-1/photos/00020-obraz-007.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00020-obraz-007.webp",
+          "alt": "Budowa - zdjęcie 20",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00007-20161014-132427.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00007-20161014-132427.webp",
-          "alt": "Figa - zdjęcie 7",
+          "src": "galleries/budowa/budowa-1/photos/00021-obraz-008.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00021-obraz-008.webp",
+          "alt": "Budowa - zdjęcie 21",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00008-20161115-152710.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00008-20161115-152710.webp",
-          "alt": "Figa - zdjęcie 8",
+          "src": "galleries/budowa/budowa-1/photos/00022-obraz-009.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00022-obraz-009.webp",
+          "alt": "Budowa - zdjęcie 22",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00009-20161125-081735.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00009-20161125-081735.webp",
-          "alt": "Figa - zdjęcie 9",
+          "src": "galleries/budowa/budowa-1/photos/00023-obraz-010.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00023-obraz-010.webp",
+          "alt": "Budowa - zdjęcie 23",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00010-20161125-104131.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00010-20161125-104131.webp",
-          "alt": "Figa - zdjęcie 10",
+          "src": "galleries/budowa/budowa-1/photos/00024-obraz-011.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00024-obraz-011.webp",
+          "alt": "Budowa - zdjęcie 24",
           "width": 0,
           "height": 0
         },
         {
-          "src": "galleries/figa/figa-2/photos/00011-dsc-3059.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00011-dsc-3059.webp",
-          "alt": "Figa - zdjęcie 11",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00012-dsc-3060.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00012-dsc-3060.webp",
-          "alt": "Figa - zdjęcie 12",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00013-dsc-3061.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00013-dsc-3061.webp",
-          "alt": "Figa - zdjęcie 13",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00014-dsc-3063.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00014-dsc-3063.webp",
-          "alt": "Figa - zdjęcie 14",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00015-dsc-3090.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00015-dsc-3090.webp",
-          "alt": "Figa - zdjęcie 15",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00016-dsc-3141.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00016-dsc-3141.webp",
-          "alt": "Figa - zdjęcie 16",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00017-dsc-3142.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00017-dsc-3142.webp",
-          "alt": "Figa - zdjęcie 17",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00018-dsc-3144.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00018-dsc-3144.webp",
-          "alt": "Figa - zdjęcie 18",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00019-dsc-3147.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00019-dsc-3147.webp",
-          "alt": "Figa - zdjęcie 19",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00020-dsc-3148.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00020-dsc-3148.webp",
-          "alt": "Figa - zdjęcie 20",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00021-dsc-3149.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00021-dsc-3149.webp",
-          "alt": "Figa - zdjęcie 21",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00022-dsc-6130.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00022-dsc-6130.webp",
-          "alt": "Figa - zdjęcie 22",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00023-dsc-6145.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00023-dsc-6145.webp",
-          "alt": "Figa - zdjęcie 23",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00024-dsc-6174.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00024-dsc-6174.webp",
-          "alt": "Figa - zdjęcie 24",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00025-dsc-6186.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00025-dsc-6186.webp",
-          "alt": "Figa - zdjęcie 25",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00026-dsc-6187.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00026-dsc-6187.webp",
-          "alt": "Figa - zdjęcie 26",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00027-dsc-6290.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00027-dsc-6290.webp",
-          "alt": "Figa - zdjęcie 27",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/figa/figa-2/photos/00028-dsc-6397-2.webp",
-          "thumbnail": "galleries/figa/figa-2/thumbs/00028-dsc-6397-2.webp",
-          "alt": "Figa - zdjęcie 28",
+          "src": "galleries/budowa/budowa-1/photos/00025-obraz-168.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00025-obraz-168.webp",
+          "alt": "Budowa - zdjęcie 25",
           "width": 0,
           "height": 0
         }
