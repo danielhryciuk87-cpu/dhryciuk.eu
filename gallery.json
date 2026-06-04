@@ -1,7 +1,366 @@
 {
-  "generatedAt": "2026-06-04T19:53:52.995388+00:00",
+  "generatedAt": "2026-06-04T20:10:26.816739+00:00",
   "sourceFilter": null,
   "albums": [
+    {
+      "id": "budowa-1",
+      "title": "Budowa",
+      "category": "budowa",
+      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Budowa",
+      "photos": [
+        {
+          "src": "galleries/budowa/budowa-1/photos/00001-agata-003.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00001-agata-003.webp",
+          "alt": "Budowa - zdjęcie 1",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00002-agata-005.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00002-agata-005.webp",
+          "alt": "Budowa - zdjęcie 2",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00003-agata-008.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00003-agata-008.webp",
+          "alt": "Budowa - zdjęcie 3",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00004-agata-013.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00004-agata-013.webp",
+          "alt": "Budowa - zdjęcie 4",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00005-agata-016.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00005-agata-016.webp",
+          "alt": "Budowa - zdjęcie 5",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00006-agata-033.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00006-agata-033.webp",
+          "alt": "Budowa - zdjęcie 6",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00007-agata-037.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00007-agata-037.webp",
+          "alt": "Budowa - zdjęcie 7",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00008-agata-044.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00008-agata-044.webp",
+          "alt": "Budowa - zdjęcie 8",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00009-dscf0434.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00009-dscf0434.webp",
+          "alt": "Budowa - zdjęcie 9",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00010-dscf0440.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00010-dscf0440.webp",
+          "alt": "Budowa - zdjęcie 10",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00011-dscf0445.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00011-dscf0445.webp",
+          "alt": "Budowa - zdjęcie 11",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00012-dscf0448.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00012-dscf0448.webp",
+          "alt": "Budowa - zdjęcie 12",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00013-dscf0451.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00013-dscf0451.webp",
+          "alt": "Budowa - zdjęcie 13",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00014-obraz-001.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00014-obraz-001.webp",
+          "alt": "Budowa - zdjęcie 14",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00015-obraz-002.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00015-obraz-002.webp",
+          "alt": "Budowa - zdjęcie 15",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00016-obraz-003.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00016-obraz-003.webp",
+          "alt": "Budowa - zdjęcie 16",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00017-obraz-004.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00017-obraz-004.webp",
+          "alt": "Budowa - zdjęcie 17",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00018-obraz-005.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00018-obraz-005.webp",
+          "alt": "Budowa - zdjęcie 18",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00019-obraz-006.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00019-obraz-006.webp",
+          "alt": "Budowa - zdjęcie 19",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00020-obraz-007.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00020-obraz-007.webp",
+          "alt": "Budowa - zdjęcie 20",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00021-obraz-008.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00021-obraz-008.webp",
+          "alt": "Budowa - zdjęcie 21",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00022-obraz-009.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00022-obraz-009.webp",
+          "alt": "Budowa - zdjęcie 22",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00023-obraz-010.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00023-obraz-010.webp",
+          "alt": "Budowa - zdjęcie 23",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00024-obraz-011.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00024-obraz-011.webp",
+          "alt": "Budowa - zdjęcie 24",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/budowa/budowa-1/photos/00025-obraz-168.webp",
+          "thumbnail": "galleries/budowa/budowa-1/thumbs/00025-obraz-168.webp",
+          "alt": "Budowa - zdjęcie 25",
+          "width": 0,
+          "height": 0
+        }
+      ]
+    },
+    {
+      "id": "krajobrazy-1",
+      "title": "Krajobrazy",
+      "category": "przyroda",
+      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Krajobrazy",
+      "photos": []
+    },
+    {
+      "id": "przyroda-1",
+      "title": "Przyroda",
+      "category": "przyroda",
+      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Przyroda",
+      "photos": [
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00001-img-20191019-124726.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00001-img-20191019-124726.webp",
+          "alt": "Przyroda - zdjęcie 1",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00002-img-20191019-124729-1.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00002-img-20191019-124729-1.webp",
+          "alt": "Przyroda - zdjęcie 2",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00003-img-20191019-124729.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00003-img-20191019-124729.webp",
+          "alt": "Przyroda - zdjęcie 3",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00004-img-20191019-124735.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00004-img-20191019-124735.webp",
+          "alt": "Przyroda - zdjęcie 4",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00005-img-20191019-124748.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00005-img-20191019-124748.webp",
+          "alt": "Przyroda - zdjęcie 5",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00006-img-20191019-135003.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00006-img-20191019-135003.webp",
+          "alt": "Przyroda - zdjęcie 6",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00007-img-20191019-135008.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00007-img-20191019-135008.webp",
+          "alt": "Przyroda - zdjęcie 7",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00008-img-20191019-135030-1.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00008-img-20191019-135030-1.webp",
+          "alt": "Przyroda - zdjęcie 8",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00009-img-20191019-135030.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00009-img-20191019-135030.webp",
+          "alt": "Przyroda - zdjęcie 9",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00010-img-20191019-141016.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00010-img-20191019-141016.webp",
+          "alt": "Przyroda - zdjęcie 10",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00011-img-20191019-141017.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00011-img-20191019-141017.webp",
+          "alt": "Przyroda - zdjęcie 11",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00012-img-20191019-141018.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00012-img-20191019-141018.webp",
+          "alt": "Przyroda - zdjęcie 12",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00013-img-20191019-141021.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00013-img-20191019-141021.webp",
+          "alt": "Przyroda - zdjęcie 13",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00014-img-20191019-163701-1.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00014-img-20191019-163701-1.webp",
+          "alt": "Przyroda - zdjęcie 14",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00015-img-20191019-163701.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00015-img-20191019-163701.webp",
+          "alt": "Przyroda - zdjęcie 15",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00016-img-20191020-110223.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00016-img-20191020-110223.webp",
+          "alt": "Przyroda - zdjęcie 16",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00017-img-20191020-112027.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00017-img-20191020-112027.webp",
+          "alt": "Przyroda - zdjęcie 17",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00018-img-20191020-112028-1.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00018-img-20191020-112028-1.webp",
+          "alt": "Przyroda - zdjęcie 18",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00019-img-20191020-112028.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00019-img-20191020-112028.webp",
+          "alt": "Przyroda - zdjęcie 19",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00020-img-20191020-112115.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00020-img-20191020-112115.webp",
+          "alt": "Przyroda - zdjęcie 20",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00021-img-20191020-113246.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00021-img-20191020-113246.webp",
+          "alt": "Przyroda - zdjęcie 21",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00022-img-20191020-124248.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00022-img-20191020-124248.webp",
+          "alt": "Przyroda - zdjęcie 22",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/przyroda-1/photos/00023-img-20191102-170434.webp",
+          "thumbnail": "galleries/przyroda/przyroda-1/thumbs/00023-img-20191102-170434.webp",
+          "alt": "Przyroda - zdjęcie 23",
+          "width": 0,
+          "height": 0
+        }
+      ]
+    },
     {
       "id": "figa-1",
       "title": "Figa",
@@ -203,356 +562,11 @@
           "alt": "Figa - zdjęcie 28",
           "width": 0,
           "height": 0
-        }
-      ]
-    },
-    {
-      "id": "budowa-1",
-      "title": "Budowa",
-      "category": "budowa",
-      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Budowa",
-      "photos": [
-        {
-          "src": "galleries/budowa/budowa-1/photos/00001-agata-003.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00001-agata-003.webp",
-          "alt": "Budowa - zdjęcie 1",
-          "width": 0,
-          "height": 0
         },
         {
-          "src": "galleries/budowa/budowa-1/photos/00002-agata-005.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00002-agata-005.webp",
-          "alt": "Budowa - zdjęcie 2",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00003-agata-008.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00003-agata-008.webp",
-          "alt": "Budowa - zdjęcie 3",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00004-agata-013.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00004-agata-013.webp",
-          "alt": "Budowa - zdjęcie 4",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00005-agata-016.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00005-agata-016.webp",
-          "alt": "Budowa - zdjęcie 5",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00006-agata-033.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00006-agata-033.webp",
-          "alt": "Budowa - zdjęcie 6",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00007-agata-037.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00007-agata-037.webp",
-          "alt": "Budowa - zdjęcie 7",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00008-agata-044.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00008-agata-044.webp",
-          "alt": "Budowa - zdjęcie 8",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00009-dscf0434.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00009-dscf0434.webp",
-          "alt": "Budowa - zdjęcie 9",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00010-dscf0440.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00010-dscf0440.webp",
-          "alt": "Budowa - zdjęcie 10",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00011-dscf0445.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00011-dscf0445.webp",
-          "alt": "Budowa - zdjęcie 11",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00012-dscf0448.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00012-dscf0448.webp",
-          "alt": "Budowa - zdjęcie 12",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00013-dscf0451.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00013-dscf0451.webp",
-          "alt": "Budowa - zdjęcie 13",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00014-obraz-001.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00014-obraz-001.webp",
-          "alt": "Budowa - zdjęcie 14",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00015-obraz-002.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00015-obraz-002.webp",
-          "alt": "Budowa - zdjęcie 15",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00016-obraz-003.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00016-obraz-003.webp",
-          "alt": "Budowa - zdjęcie 16",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00017-obraz-004.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00017-obraz-004.webp",
-          "alt": "Budowa - zdjęcie 17",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00018-obraz-005.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00018-obraz-005.webp",
-          "alt": "Budowa - zdjęcie 18",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00019-obraz-006.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00019-obraz-006.webp",
-          "alt": "Budowa - zdjęcie 19",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00020-obraz-007.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00020-obraz-007.webp",
-          "alt": "Budowa - zdjęcie 20",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00021-obraz-008.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00021-obraz-008.webp",
-          "alt": "Budowa - zdjęcie 21",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00022-obraz-009.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00022-obraz-009.webp",
-          "alt": "Budowa - zdjęcie 22",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00023-obraz-010.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00023-obraz-010.webp",
-          "alt": "Budowa - zdjęcie 23",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00024-obraz-011.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00024-obraz-011.webp",
-          "alt": "Budowa - zdjęcie 24",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/budowa/budowa-1/photos/00025-obraz-168.webp",
-          "thumbnail": "galleries/budowa/budowa-1/thumbs/00025-obraz-168.webp",
-          "alt": "Budowa - zdjęcie 25",
-          "width": 0,
-          "height": 0
-        }
-      ]
-    },
-    {
-      "id": "krajobrazy-1",
-      "title": "Krajobrazy",
-      "category": "przyroda",
-      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Krajobrazy",
-      "photos": [
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00001-img-20191019-124726.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00001-img-20191019-124726.webp",
-          "alt": "Krajobrazy - zdjęcie 1",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00002-img-20191019-124729-1.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00002-img-20191019-124729-1.webp",
-          "alt": "Krajobrazy - zdjęcie 2",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00003-img-20191019-124729.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00003-img-20191019-124729.webp",
-          "alt": "Krajobrazy - zdjęcie 3",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00004-img-20191019-124735.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00004-img-20191019-124735.webp",
-          "alt": "Krajobrazy - zdjęcie 4",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00005-img-20191019-124748.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00005-img-20191019-124748.webp",
-          "alt": "Krajobrazy - zdjęcie 5",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00006-img-20191019-135003.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00006-img-20191019-135003.webp",
-          "alt": "Krajobrazy - zdjęcie 6",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00007-img-20191019-135008.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00007-img-20191019-135008.webp",
-          "alt": "Krajobrazy - zdjęcie 7",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00008-img-20191019-135030-1.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00008-img-20191019-135030-1.webp",
-          "alt": "Krajobrazy - zdjęcie 8",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00009-img-20191019-135030.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00009-img-20191019-135030.webp",
-          "alt": "Krajobrazy - zdjęcie 9",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00010-img-20191019-141016.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00010-img-20191019-141016.webp",
-          "alt": "Krajobrazy - zdjęcie 10",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00011-img-20191019-141017.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00011-img-20191019-141017.webp",
-          "alt": "Krajobrazy - zdjęcie 11",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00012-img-20191019-141018.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00012-img-20191019-141018.webp",
-          "alt": "Krajobrazy - zdjęcie 12",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00013-img-20191019-141021.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00013-img-20191019-141021.webp",
-          "alt": "Krajobrazy - zdjęcie 13",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00014-img-20191019-163701-1.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00014-img-20191019-163701-1.webp",
-          "alt": "Krajobrazy - zdjęcie 14",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00015-img-20191019-163701.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00015-img-20191019-163701.webp",
-          "alt": "Krajobrazy - zdjęcie 15",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00016-img-20191020-110223.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00016-img-20191020-110223.webp",
-          "alt": "Krajobrazy - zdjęcie 16",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00017-img-20191020-112027.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00017-img-20191020-112027.webp",
-          "alt": "Krajobrazy - zdjęcie 17",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00018-img-20191020-112028-1.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00018-img-20191020-112028-1.webp",
-          "alt": "Krajobrazy - zdjęcie 18",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00019-img-20191020-112028.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00019-img-20191020-112028.webp",
-          "alt": "Krajobrazy - zdjęcie 19",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00020-img-20191020-112115.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00020-img-20191020-112115.webp",
-          "alt": "Krajobrazy - zdjęcie 20",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00021-img-20191020-113246.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00021-img-20191020-113246.webp",
-          "alt": "Krajobrazy - zdjęcie 21",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00022-img-20191020-124248.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00022-img-20191020-124248.webp",
-          "alt": "Krajobrazy - zdjęcie 22",
-          "width": 0,
-          "height": 0
-        },
-        {
-          "src": "galleries/przyroda/krajobrazy-1/photos/00023-img-20191102-170434.webp",
-          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00023-img-20191102-170434.webp",
-          "alt": "Krajobrazy - zdjęcie 23",
+          "src": "galleries/figa/figa-1/photos/00029-fb-img-1501432992563.webp",
+          "thumbnail": "galleries/figa/figa-1/thumbs/00029-fb-img-1501432992563.webp",
+          "alt": "Figa - zdjęcie 29",
           "width": 0,
           "height": 0
         }
