@@ -6,7 +6,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const albumsNode = app.querySelector("[data-albums]");
   const loadMore = app.querySelector("[data-load-more]");
   const empty = app.querySelector("[data-empty]");
-  const chips = [...app.querySelectorAll("[data-filter]")];
+  const toolbar = app.querySelector(".gallery-toolbar");
+  let chips = [...app.querySelectorAll("[data-filter]")];
   const batchSize = 36;
   let allPhotos = [];
   let albums = [];
@@ -25,6 +26,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const response = await fetch("gallery.json", { cache: "no-store" });
     const data = await response.json();
     albums = data.albums || [];
+    renderCategoryFilters();
     allPhotos = albums.flatMap((album) => (album.photos || []).map((photo, index) => ({
       ...photo,
       albumId: album.id,
@@ -37,6 +39,28 @@ document.addEventListener("DOMContentLoaded", async () => {
   } catch (error) {
     empty.hidden = false;
     empty.textContent = "Nie udało się wczytać gallery.json. Uruchom generator galerii.";
+  }
+
+  function renderCategoryFilters() {
+    const categories = [...new Set(albums.map((album) => album.category || "pozostale"))].sort((a, b) => a.localeCompare(b, "pl"));
+    categories.forEach((category) => {
+      const button = document.createElement("button");
+      button.className = "chip";
+      button.type = "button";
+      button.dataset.filter = category;
+      button.textContent = category.replace(/-/g, " ").replace(/^./, (letter) => letter.toLocaleUpperCase("pl"));
+      toolbar.append(button);
+    });
+    chips = [...app.querySelectorAll("[data-filter]")];
+    chips.forEach((chip) => {
+      chip.addEventListener("click", () => {
+        activeCategory = chip.dataset.filter;
+        activeAlbum = "all";
+        chips.forEach((item) => item.classList.toggle("is-active", item === chip));
+        renderAlbums();
+        applyFilters();
+      });
+    });
   }
 
   function renderAlbums() {
@@ -88,16 +112,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     rendered += batchSize;
     loadMore.hidden = rendered >= visiblePhotos.length;
   }
-
-  chips.forEach((chip) => {
-    chip.addEventListener("click", () => {
-      activeCategory = chip.dataset.filter;
-      activeAlbum = "all";
-      chips.forEach((item) => item.classList.toggle("is-active", item === chip));
-      renderAlbums();
-      applyFilters();
-    });
-  });
 
   loadMore.addEventListener("click", renderBatch);
 

@@ -4,6 +4,14 @@ Statyczne portfolio fotograficzne dla domeny `dhryciuk.eu`, przygotowane pod Git
 
 Hasło dostępu do strony: `FIGA`. To jest lekkie zabezpieczenie w `localStorage`, nie ochrona bankowa.
 
+## Aplikacja Android
+
+Folder `android-uploader/` zawiera natywną aplikację **DH Uploader** do dodawania zdjęć z telefonu bez użycia komputera. Aplikacja pozwala wybrać istniejący album lub utworzyć nowy, generuje zoptymalizowane zdjęcia i miniatury WebP, aktualizuje `gallery.json` i publikuje wszystko jednym commitem.
+
+Gotowy APK do instalacji po publikacji strony: `https://dhryciuk.eu/assets/apk/dh-uploader-1.0.0-debug.apk`.
+
+Instrukcja konfiguracji, tworzenia ograniczonego tokenu GitHub oraz instalacji znajduje się w [`android-uploader/README.md`](android-uploader/README.md).
+
 ## Struktura
 
 ```text
