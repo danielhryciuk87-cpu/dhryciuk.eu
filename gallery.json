@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T19:30:52.056686+00:00",
+  "generatedAt": "2026-06-04T19:53:52.995388+00:00",
   "sourceFilter": null,
   "albums": [
     {
@@ -384,6 +384,175 @@
           "src": "galleries/budowa/budowa-1/photos/00025-obraz-168.webp",
           "thumbnail": "galleries/budowa/budowa-1/thumbs/00025-obraz-168.webp",
           "alt": "Budowa - zdjęcie 25",
+          "width": 0,
+          "height": 0
+        }
+      ]
+    },
+    {
+      "id": "krajobrazy-1",
+      "title": "Krajobrazy",
+      "category": "przyroda",
+      "source": "C:\\Users\\Daniel\\Pictures\\Portfolio\\Krajobrazy",
+      "photos": [
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00001-img-20191019-124726.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00001-img-20191019-124726.webp",
+          "alt": "Krajobrazy - zdjęcie 1",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00002-img-20191019-124729-1.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00002-img-20191019-124729-1.webp",
+          "alt": "Krajobrazy - zdjęcie 2",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00003-img-20191019-124729.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00003-img-20191019-124729.webp",
+          "alt": "Krajobrazy - zdjęcie 3",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00004-img-20191019-124735.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00004-img-20191019-124735.webp",
+          "alt": "Krajobrazy - zdjęcie 4",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00005-img-20191019-124748.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00005-img-20191019-124748.webp",
+          "alt": "Krajobrazy - zdjęcie 5",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00006-img-20191019-135003.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00006-img-20191019-135003.webp",
+          "alt": "Krajobrazy - zdjęcie 6",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00007-img-20191019-135008.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00007-img-20191019-135008.webp",
+          "alt": "Krajobrazy - zdjęcie 7",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00008-img-20191019-135030-1.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00008-img-20191019-135030-1.webp",
+          "alt": "Krajobrazy - zdjęcie 8",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00009-img-20191019-135030.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00009-img-20191019-135030.webp",
+          "alt": "Krajobrazy - zdjęcie 9",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00010-img-20191019-141016.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00010-img-20191019-141016.webp",
+          "alt": "Krajobrazy - zdjęcie 10",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00011-img-20191019-141017.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00011-img-20191019-141017.webp",
+          "alt": "Krajobrazy - zdjęcie 11",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00012-img-20191019-141018.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00012-img-20191019-141018.webp",
+          "alt": "Krajobrazy - zdjęcie 12",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00013-img-20191019-141021.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00013-img-20191019-141021.webp",
+          "alt": "Krajobrazy - zdjęcie 13",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00014-img-20191019-163701-1.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00014-img-20191019-163701-1.webp",
+          "alt": "Krajobrazy - zdjęcie 14",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00015-img-20191019-163701.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00015-img-20191019-163701.webp",
+          "alt": "Krajobrazy - zdjęcie 15",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00016-img-20191020-110223.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00016-img-20191020-110223.webp",
+          "alt": "Krajobrazy - zdjęcie 16",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00017-img-20191020-112027.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00017-img-20191020-112027.webp",
+          "alt": "Krajobrazy - zdjęcie 17",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00018-img-20191020-112028-1.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00018-img-20191020-112028-1.webp",
+          "alt": "Krajobrazy - zdjęcie 18",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00019-img-20191020-112028.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00019-img-20191020-112028.webp",
+          "alt": "Krajobrazy - zdjęcie 19",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00020-img-20191020-112115.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00020-img-20191020-112115.webp",
+          "alt": "Krajobrazy - zdjęcie 20",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00021-img-20191020-113246.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00021-img-20191020-113246.webp",
+          "alt": "Krajobrazy - zdjęcie 21",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00022-img-20191020-124248.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00022-img-20191020-124248.webp",
+          "alt": "Krajobrazy - zdjęcie 22",
+          "width": 0,
+          "height": 0
+        },
+        {
+          "src": "galleries/przyroda/krajobrazy-1/photos/00023-img-20191102-170434.webp",
+          "thumbnail": "galleries/przyroda/krajobrazy-1/thumbs/00023-img-20191102-170434.webp",
+          "alt": "Krajobrazy - zdjęcie 23",
           "width": 0,
           "height": 0
         }
