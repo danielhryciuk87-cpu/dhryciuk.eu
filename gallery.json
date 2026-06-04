@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:18:41.033525Z",
+  "generatedAt": "2026-06-04T23:21:11.366366Z",
   "albums": [
     {
       "id": "budowa-1",
@@ -604,6 +604,13 @@
           "alt": "Zoja - zdjęcie 4",
           "width": 2200,
           "height": 1656
+        },
+        {
+          "src": "galleries\/figa\/zoja\/photos\/20260605-012108-781-001.webp",
+          "thumbnail": "galleries\/figa\/zoja\/thumbs\/20260605-012108-781-001.webp",
+          "alt": "Zoja - zdjęcie 5",
+          "width": 2200,
+          "height": 1237
         }
       ]
     }
