@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T23:21:11.366366Z",
+  "generatedAt": "2026-06-05T06:44:14.463214Z",
   "albums": [
     {
       "id": "budowa-1",
@@ -357,6 +357,13 @@
           "alt": "Przyroda - zdjęcie 23",
           "width": 0,
           "height": 0
+        },
+        {
+          "src": "galleries\/przyroda\/przyroda-1\/photos\/20260605-084412-640-001.webp",
+          "thumbnail": "galleries\/przyroda\/przyroda-1\/thumbs\/20260605-084412-640-001.webp",
+          "alt": "Przyroda - zdjęcie 24",
+          "width": 2200,
+          "height": 1237
         }
       ]
     },
